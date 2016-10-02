@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'open_sansbold';
+    src: url('../fonts/folder/open.sans.bold/OpenSans-Bold-webfont.eot');
+    src: url('../fonts/folder/open.sans.bold/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/folder/open.sans.bold/OpenSans-Bold-webfont.woff') format('woff'),
+    url('../fonts/folder/open.sans.bold/OpenSans-Bold-webfont.ttf') format('truetype'),
+    url('../fonts/folder/open.sans.bold/OpenSans-Bold-webfont.svg#open_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../fonts/folder/open.sans.regular/OpenSans-Regular-webfont.eot');
+    src: url('../fonts/folder/open.sans.regular/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/folder/open.sans.regular/OpenSans-Regular-webfont.woff') format('woff'),
+    url('../fonts/folder/open.sans.regular/OpenSans-Regular-webfont.ttf') format('truetype'),
+    url('../fonts/folder/open.sans.regular/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ralewayregular';
+    src: url('../fonts/folder/raleway.regular/raleway-regular-webfont.woff2') format('woff2'),
+    url('../fonts/folder/raleway.regular/raleway-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#opportunity-list {
+    height: 596px;
+    background-color: #ffffff;
+}
+#opportunity-list img {
+    display: block;
+    width: 100%;
+    margin-top: 109px;
+}
+#opportunity-list h1 {
+    margin-top: 107px;
+    text-align: left;
+    font-size: 20px;
+    color: #212121;
+}
+.line {
+    display: block;
+    width: 65px;
+    height: 3px;
+    background-color: #ff8b38;
+    margin-top: 29px;
+    color: #212121;
+}
+.sub-section-list {
+    margin-top: 31px;
+    font-size: 14px;
+    color: #86878b;
+}
+.cloud-desciption {
+    margin-top: 47px;
+}
+#opportunity-list i {
+    border:2px solid #ff8b38;
+    border-radius: 50%;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    color: #ff8b38;
+    text-align: center;
+    font-size: 16px;
+}
+#opportunity-list h2 {
+    font-size: 14px;
+    color: #212121;
+    margin: 0;
+}
+.cloud-desciption p {
+    padding-top: 13px;
+    font-size: 14px;
+    color: #86878b;
+}
+#picture-section {
+    height: 525px;
+    background-color: #f5f5f5;
+}
+#picture-section h1 {
+    font-family: 'open_sansbold', sans-serif;
+    color: #212121;
+    font-size: 20px;
+    padding-top: 107px;
+}
+#picture-section p {
+    font-family: 'open_sansregular', serif;
+    font-size: 14px;
+    color: #8d8e92;
+    padding-top: 31px;
+}
+#picture-section img {
+    display: block;
+    margin-top: 89px;
+}

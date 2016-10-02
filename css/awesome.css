@@ -1,0 +1,50 @@
+#awesome {
+    height: 593px;
+    background-color: #ffffff;
+}
+#awesome h1 {
+    font-family: 'ralewayregular', sans-serif;
+    font-size: 36px;
+    color: #3d3d3d;
+    text-align: center;
+    margin-top: 109px;
+}
+#awesome span.line {
+    display: block;
+    width: 65px;
+    height: 3px;
+    background-color: #ff8b38;
+    margin: 29px auto;
+    color: #212121;
+}
+.awesome-description {
+    font-family: 'open_sansregular', sans-serif;
+    font-size: 14px;
+    color: #95969a;
+    text-align: center;
+}
+#awesome i {
+    font-size: 32px;
+    color: #ff8b38;
+    border: 2px solid #ff8b38;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+    text-align: center;
+    margin-top: 81px;
+}
+#awesome h2 {
+    font-family: 'open_sansbold', sans-serif;
+    font-size: 20px;
+    color: #333333;
+    text-align: center;
+    margin-top: 29px;
+}
+#awesome p {
+    font-family: 'open_sansregular', sans-serif;
+    font-size: 14px;
+    color: #95969a;
+    text-align: center;
+    margin-top: 23px;
+}

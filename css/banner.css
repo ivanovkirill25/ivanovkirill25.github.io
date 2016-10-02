@@ -1,0 +1,108 @@
+#banner {
+    background: url(../images/Axit.jpg) no-repeat bottom center;
+    background-size: cover;
+    height: 643px;
+}
+.banner-logo {
+    margin-top: 111px;
+}
+h1 {
+    color: #ffffff;
+    font-size: 36px;
+}
+hr {
+     display: block;
+     position: relative;
+     margin-left: 0;
+     width: 64px;
+     height: 5px;
+     color: #ffffff;
+ }
+.banner-info {
+    font-size: 16px;
+    color: #afadab;
+}
+.banner-download {
+    display: block;
+    width: 135px;
+    height: 42px;
+    line-height: 40px;
+    border: 2px solid #fff;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
+}
+.banner-download:hover {
+    background-color: #ffffff;
+    color: #000000;
+    text-decoration: none;
+}
+
+.sign-up {
+    width: 362px;
+    height: 363px;
+    margin-top: 141px;
+    float: right;
+    background: #ffffff;
+    border-radius: 3px;
+    text-align: center;
+}
+#banner h2 {
+    font-size: 20px;
+    font-weight: 700;
+    height: 54px;
+    color: #333333;
+    background: #f5f5f5;
+    padding: 20px 0;
+    margin: 0;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+#banner h2 span {
+    color: #ff9b51;
+}
+#banner input {
+    width: 78.4%;
+    margin-top: 30px;
+    border-top: 0;
+    border-bottom: 1px solid #d6d6d6;
+    border-left: 1px solid #fbfbfb;
+    border-right: 1px solid #fbfbfb;
+    padding: 10px;
+    outline: 0;
+}
+#banner form input:focus{
+    border-bottom:1px solid	#ff8b38;
+}
+#banner form a {
+    background-color: #ff9b51;
+    color: #ffffff;
+    display: block;
+    width: 100%;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    margin-top: 50px;
+    padding: 20px 0;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+}
+#banner form a:hover {
+    background-color: #727377;
+    color: #ff9b51;
+}
+#social {
+    height: 105px;
+    background-color: #ffffff;
+}
+.social-media {
+    text-align: right;
+}
+#social a i {
+    color: #cccccc;
+    padding: 10px 0px 0 40px;
+}
+#social a i:hover {
+    color: #ff9b51;
+}

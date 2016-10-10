@@ -7,8 +7,10 @@
     margin-top: 111px;
 }
 h1 {
+    font-family: 'ralewayregular', sans-serif;
     color: #ffffff;
     font-size: 36px;
+    cursor: default;
 }
 hr {
      display: block;
@@ -19,10 +21,13 @@ hr {
      color: #ffffff;
  }
 .banner-info {
+    font-family: 'ralewaylight', sans-serif;
     font-size: 16px;
     color: #afadab;
+    cursor: default;
 }
 .banner-download {
+    font-family: 'open_sanssemibold', sans-serif;
     display: block;
     width: 135px;
     height: 42px;
@@ -49,8 +54,8 @@ hr {
     text-align: center;
 }
 #banner h2 {
+    font-family: 'open_sanssemibold', sans-serif;
     font-size: 20px;
-    font-weight: 700;
     height: 54px;
     color: #333333;
     background: #f5f5f5;
@@ -58,11 +63,13 @@ hr {
     margin: 0;
     border-top-left-radius: 3px;
     border-top-right-radius: 3px;
+    cursor: default;
 }
 #banner h2 span {
     color: #ff9b51;
 }
 #banner input {
+    font-family: 'open_sansregular', sans-serif;
     width: 78.4%;
     margin-top: 30px;
     border-top: 0;
@@ -76,6 +83,7 @@ hr {
     border-bottom:1px solid	#ff8b38;
 }
 #banner form a {
+    font-family: 'open_sanssemibold', sans-serif;
     background-color: #ff9b51;
     color: #ffffff;
     display: block;
